@@ -52,3 +52,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
+.signature {
+    font-size: 14px;
+    color: rgba(40, 37, 37, 0.507);
+    margin-top: 20px;
+}
